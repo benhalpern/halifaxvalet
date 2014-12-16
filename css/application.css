@@ -109,5 +109,17 @@ nav {
     .content.contact a {
       color: #5a5a5a;
       text-decoration: none; }
+  .content.contact {
+    margin-top: 30px;
+    text-align: center;
+    color: #000836;
+    border-radius: 8px;
+    border: 6px solid #D9ABB6;
+    padding-bottom: 60px; }
+    .content.contact h1 {
+      font-size: 4em; }
+    .content.contact a {
+      color: #5a5a5a;
+      text-decoration: none; }
 
 /*# sourceMappingURL=application.css.map */

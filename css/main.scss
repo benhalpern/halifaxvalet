@@ -105,4 +105,21 @@ nav{
 		}
 	}
 
+	&.contact{
+		margin-top:30px;
+		text-align:center;
+		color:$navy;
+		border-radius: 8px;
+		border:6px solid $pink;
+		padding-bottom:60px;
+		h1{
+			font-size:4em;
+		}
+		a{
+			color:lighten($dark-gray,10%);
+			text-decoration:none;
+		}
+	}
+	
+
 }
